@@ -11,7 +11,7 @@ const loginUrl = 'https://euapi.gizwits.com/app/login';
 const heatzy_Application_Id = "c70a66ff039d41b4a220e198b0fcc8b3";
 // The following values are used in the API to set the mode. (To get the mode, the API returns a string "cft" or "eco")
 const cft = 0 // Comfort mode
-const eco = 1 // Eco mode
+const eco = 2 // Eco mode
 
 let Service, Characteristic
 
